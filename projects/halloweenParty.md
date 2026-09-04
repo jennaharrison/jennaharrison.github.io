@@ -2,27 +2,24 @@
 layout: project
 type: project
 image: img/halloweenParty-icon.jpg
-title: "Vacay"
-date: 2015
+title: "Halloween Party"
+date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Teamwork
+  - Planning
+  - Design
+  - Leadership
+  - Problem Solving
+summary: "Planned and organized a Halloween party featuring games, food, decorations, and a custom-built haunted house for all ages."
 ---
 
 <img class="img-fluid" src="../img/HalloweenParty/halloweenParty.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+My church traditionally holds a trunk-or-treat event for Halloween each year, which is fun for younger children but often a little boring older youth and adults with less to do. In 2023, I proposed changing the event into a full Halloween party that would have something for everyone.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Working with a team, we planned and organized the entire event, including food, decorations, games, and activities for all ages. We transformed the gym into an area filled with games and activities and designed and built a whole haunted house from scratch in the back of the building.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Our team handled every part of the event, from setting up and decorating to running the activities and participating as scare actors in the haunted house. The event was a success and gave children, youth, and adults an opportunity to enjoy Halloween together.
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+This experience really taught me a lot about leadership and working with a team. There were so many small things that go into planning an event for 100+ people that I never would have recognized without this experience. I also think it taught me patience and problem solving when things didn't necessarily go the way we expected.
