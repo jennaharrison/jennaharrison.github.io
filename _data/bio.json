@@ -137,16 +137,28 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Scholarship",
+      "date": "2025-2029",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "A merit-based scholarship awarded to incoming freshmen who have demonstrated strong academic performance and a commitment to making a positive impact on UH Manoa."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2023-2024",
+      "awarder": "Leeward Community College",
+      "summary": "An academic honor recognizing students who demonstrate outstanding academic achievement at Leeward Community College."
+    },
+    {
+      "title": "Outstanding Cybersecurity Level II Student",
+      "date": "2024",
+      "awarder": "Waipahu High School",
+      "summary": "Award recognizing outstanding achievement in the Cybersecurity Level II program. Selected as the only recipient"
+    },
+    {
+      "title": "Outstanding 10th Grade House Student",
+      "date": "2023",
+      "awarder": "Waipahu High School",
+      "summary": "Award recognizing outstanding achievement and contributions as a 10th grade Industrial & Engineering Technologies student. Selected as the only recipient"
     }
   ],
   "references": [
