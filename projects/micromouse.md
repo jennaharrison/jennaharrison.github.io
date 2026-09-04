@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
-date: 2024
+date: 2025
 published: true
 labels:
   - Javascript
