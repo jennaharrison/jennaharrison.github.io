@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/HalloweenParty/halloweenParty.jpg
 title: "Vacay"
 date: 2015
 published: true
