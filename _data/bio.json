@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "Python", "Java", "Javascript", "Typescript", "C", "C++",  ]
+      "keywords": [ "Python", "Java", "Javascript", "Typescript", "C", "C++"]
     },
     {
       "name": "Frontend Development",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Tools",
-      "keywords": [ "Microsoft Office", "Git/GitHub", "VSCode" ]
+      "keywords": [ "Microsoft Office", "Git/GitHub", "VSCode"]
     }
   ],
   "education": [
@@ -50,6 +50,12 @@
       "startDate": "2025-05",
       "endDate": "Present",
       "courses": [
+        "Linear Algebra & Machine Learning",
+        "Intro to Digital Design",
+        "Basic Circuit Analysis 1",
+        "Object-oriented Software Engineering",
+        "Calculus 3-4",
+        "Physics 1-3"
       ]
     },
     {
@@ -59,34 +65,73 @@
       "startDate": "2022-01",
       "endDate": "2025-05",
       "courses": [
-        
+        "Intro to Comp Sci 1",
+        "Intro to Comp Sci 2",
+        "Disc Math for Comp Sci 1",
+        "Disc Math for Comp Sci 2",
+        "Computer Science Principles",
+        "Program Structure",
+        "Calculus 1-2",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "The Church of Jesus Christ of Latter Day Saints",
+      "website": "https://www.churchofjesuschrist.org/",
+      "position": "Young Women's President",
+      "startDate": "2021-01",
+      "endDate": "2025-05",
+      "summary": "In charge of planning and overseeing weekly activities that help young women aged twelve to eighteen learn various life skills such as baking/cooking, crafts, self-defense, and athletics."
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Coordinate with subordinate youth counselors to plan, organize, and participate in service projects.",
+        "Preside over biweekly meetings with counselors and adult representatives to discuss group successes, improvements, budget, and future plans."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Pearl Harbor Aviation Museum",
+      "website": "https://www.pearlharboraviationmuseum.org",
+      "position": "Volunteer",
+      "startDate": "2024-09",
+      "summary": "Assisted in preserving historical artifacts.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Cleaned and waxed aircraft, ensuring proper care and maintenance.",
+        "Coordinated with other youth groups to maximize efficiency and complete multiple aircraft cleaning tasks."
+      ]
+    },
+    {
+      "organization": "Hawaii Plantation Village",
+      "website": "http://hawaiiplantationvillage.org/",
+      "position": "Volunteer",
+      "startDate": "2024-05",
+      "summary": "Work with a team to restore the plantation.",
+      "highlights": [
+        "Actively engaged in the rehabilitation of historical grounds, previously infested with invasive flora."
+      ]
+    },
+    {
+      "organization": "Waipahu High School",
+      "website": "http://waipahuhigh.org/",
+      "position": "Teacher Assistant",
+      "startDate": "2023-08",
+      "endDate": "2024-05",
+      "summary": "Help reduce the workload of assigned teacher.",
+      "highlights": [
+        "Grade and evaluate student work for Integrated Science.",
+        "Work with the instructor to develop learning activities for students.",
+        "Prepare the classroom for the day by arranging furniture and decorating walls with learning aids."
+      ]
+    },
+    {
+      "organization": "Malama Pu'uloa",
+      "website": "https://www.hepfreehawaii.org/news/welcome-malama-puuloa",
+      "position": "Volunteer",
+      "startDate": "2023-03",
+      "endDate": "2024-07",
+      "summary": "Assist in the restoration of Hawaiian grounds.",
+      "highlights": [
+        "Participated in the restoration of Hawaiian fishponds that have been overtaken by invasive plant species.",
+        "Removed invasive plants around rivers and ponds and planted new ground cover to prevent the return of the unwanted plants."
       ]
     }
   ],
