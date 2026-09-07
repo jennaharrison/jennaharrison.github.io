@@ -30,8 +30,8 @@ Expanded the multiplexer to two bits, allowing the circuit to select between two
 ### Switch-Controlled LEDs
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/fpga/led-switch2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/fpga/led-switch1.jpg" class="img-thumbnail" >
+  <img width="45%" src="../img/fpga/led-switch2.jpg" class="img-thumbnail" >
+  <img width="45%" src="../img/fpga/led-switch1.jpg" class="img-thumbnail" >
 </div>
 
 Connected the FPGA board's input switches to its output LEDs using Verilog dataflow modeling. Each switch controls a corresponding LED, demonstrating how changing the switch inputs changes the LED outputs.
