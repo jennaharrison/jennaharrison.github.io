@@ -17,13 +17,13 @@ I worked with an FPGA development board to design and implement digital logic ci
 
 ### 1-Bit Multiplexer
 
-<img class="img-fluid" src="../img/fpga/multiplexor1.jpg">
+<img class="img-fluid" src="../img/fpga/multiplexor1.jpg" style="width: 50%;">
 
 Created a 1-bit 2-to-1 multiplexer in Verilog. The circuit uses a switch to select between two inputs and displays the selected output on the FPGA board.
 
 ### 2-Bit Multiplexer
 
-<img class="img-fluid" src="../img/fpga/2bit-multiplexor.jpg">
+<img class="img-fluid" src="../img/fpga/2bit-multiplexor.jpg" style="width: 50%;">
 
 Expanded the multiplexer to two bits, allowing the circuit to select between two 2-bit inputs. This project helped me apply digital logic concepts to a bigger data path.
 
@@ -31,8 +31,8 @@ Expanded the multiplexer to two bits, allowing the circuit to select between two
 
 <table>
   <tr>
-    <td><img class="img-fluid" src="../img/fpga/led-switch2.jpg"></td>
-    <td><img class="img-fluid" src="../img/fpga/led-switch1.jpg"></td>
+    <td><img class="img-fluid" src="../img/fpga/led-switch2.jpg" style="width: 50%;"></td>
+    <td><img class="img-fluid" src="../img/fpga/led-switch1.jpg" style="width: 50%;"></td>
   </tr>
 </table>
 
