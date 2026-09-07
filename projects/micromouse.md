@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+image: img/iceCream-logo.jpg
+title: "Ice Cream Picker"
 date: 2025
 published: true
 labels:
