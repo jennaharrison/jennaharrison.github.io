@@ -23,7 +23,7 @@ num = "ten";
 ```TypeScript:
 // TypeScript Example
 let num: number = 10;
-num = "ten";
+num = "ten"; // Results in an error
 ```
 
 This difference was very frustrating to me at first, but I’ve been putting more thought into it the more I work with it. In some ways, this is a good thing because it acts as a sort of safeguard. It can prevent mistakes later in the program and helps ensure that my program works as I intended it to. For this reason, I believe that from a software engineering perspective, TypeScript is a very valuable language. As software engineers, we want to reduce the possibility of errors as much as possible, and TypeScript has many features designed to do just that. These features can help make our programs more reliable and help catch potential problems before they become bigger issues.
