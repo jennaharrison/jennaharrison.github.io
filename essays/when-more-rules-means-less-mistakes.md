@@ -16,10 +16,12 @@ Sometimes having more rules in programming can actually make things easier! I ha
 One of the most prominent examples of this is declaring variable types. In JavaScript, I do not have to specify what type of data should be stored inside a particular variable because JavaScript can determine the type on its own. For example, I could assign a variable a number and later change it to a string, and JavaScript would allow this. In TypeScript, however, this would not be allowed. Once a variable is declared as a number, it has to stay a number.
 
 ```JavaScript:
+// JavaScript Example
 let num = 10;
 num = "ten";
 ```
 ```TypeScript:
+// TypeScript Example
 let num: number = 10;
 num = "ten";
 ```
