@@ -14,7 +14,7 @@ labels:
 summary: "Planned and organized a Halloween party featuring games, food, decorations, and a custom-built haunted house for all ages."
 ---
 
-<img class="img-fluid" src="../img/HalloweenParty/halloweenParty.jpg">
+<img class="img-fluid" src="../img/HalloweenParty/halloweenParty.jpg" style="width: 50%;">
 
 My church traditionally holds a trunk-or-treat event for Halloween each year, which is fun for younger children but often a little boring older youth and adults with less to do. In 2023, I proposed changing the event into a full Halloween party that would have something for everyone.
 
