@@ -21,3 +21,4 @@ When writing out your problem, remember to be polite. Remember that many of thes
 You should also include enough details to explain your problem clearly. Don't be vague, don't be short. Add anything that could be useful to someone trying to help you out. At the same time, don't include your own speculations. Write it how it is and only keep it to the necessary things.
 
 ## Example of a poor question
+<img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 50%;">
