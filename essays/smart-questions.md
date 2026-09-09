@@ -66,3 +66,7 @@ Going forward, I know that I should do my own research before asking a question 
 I also want to make sure that I keep in mind that I am not entitled to answers. These are real people going out of their way to answer questions. So although it's possible that my questions won't receive answers, I am still going to make smart questions to give myself the best chance of them being seen.
 
 Communication, in general, is an important part of software engineering because developers often need to work with others to solve problems. I think that being able to ask questions is a great way to improve my communication skills and it's definitely something I want to get better at.
+
+## AI Use
+
+I used ChatGPT in the writing process to check my grammar and to separate some of my really long paragraphs into shorter, clearer paragraphs.
