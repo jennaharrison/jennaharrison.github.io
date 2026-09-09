@@ -13,6 +13,9 @@ labels:
 ## What Even is Software Engineering???
 
 What many people may not know is that software engineering is much more than programming. It encompasses everything that goes into building and maintaining software, including planning, development, and testing. Software engineers are involved in the entire process. 
+
+Pictured below is the Software Development Life Cycle (the SDLC). It is the usual process that software engineers follow when starting a new project.
+
 <div>
   <img class="img-fluid" src="../img/sdlc.jpg" style="width: 50%;">
   <p>Cliffydcw. <i>SDLC – Software Development Life Cycle</i>. 2012. Wikimedia Commons, CC BY-SA 3.0.</p>
@@ -36,3 +39,7 @@ As I mentioned earlier, I love being creative. Ever since I was a kid, I've love
 I want to continue to develop my skills as a software engineer. I think I tend to struggle with communication. I want to have an opportunity to work with others so that I can practice this ability. I also have trouble seeing the bigger picture sometimes. Creating an outline definitely does help me, but I need more practice to get better at it.
 
 Just having more experience with software engineering in general would be incredibly beneficial for me. I feel as though a lot of my time is spent doing assignments in school and creating programs I'm told to create. If I could gain experience starting from scratch, finding my own problem, creating a plan, and developing the solution, I would be a lot more comfortable with the skills I have and will have in the future. I want to have more opportunities to work on projects where I can make my own decisions and see an idea through from beginning to end.
+
+## AI Use
+
+I had a lot of ideas when writing this essay. Sometimes when I'm just writing everything out, I don't realize that there is a better way to organize my thoughts. I used ChatGPT to help me section my thoughts into chunks that make better sense together. I also used it to assist with my grammar.
