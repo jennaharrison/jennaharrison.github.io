@@ -31,11 +31,11 @@ You should also include enough details to explain your problem clearly. Don't be
 
   <div style="width: 60%;">
     <p>
-      The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.
+The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.
       
-      Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.
+Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.
       
-      Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person could have possibly gotten their question answered in the time it took them to write out and post their own question to the site.
+Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person could have possibly gotten their question answered in the time it took them to write out and post their own question to the site.
     </p>
   </div>
 </div>
@@ -52,9 +52,9 @@ You should also include enough details to explain your problem clearly. Don't be
 
   <div style="width: 50%;">
     <p>
-      These images are examples of a smart question. They start their question by saying what they want to accomplish. Then, they include what they've tried already. They keep the code included very concise. After that, they state the problem with their code. I like how they are very specific with their requirements. They include the prerequisites and even what they <b>don't</b> want to see as an answer. 
+These images are examples of a smart question. They start their question by saying what they want to accomplish. Then, they include what they've tried already. They keep the code included very concise. After that, they state the problem with their code. I like how they are very specific with their requirements. They include the prerequisites and even what they <b>don't</b> want to see as an answer. 
       
-      This kind of question makes it easy to understand because the user is being very specific with what they're looking for. This particular question has many helpful responses.
+This kind of question makes it easy to understand because the user is being very specific with what they're looking for. This particular question has many helpful responses.
     </p>
   </div>
 </div>
