@@ -7,6 +7,10 @@ date: 2026-09-08
 published: true
 labels:
   - Software Engineering
+  - SDLC
+  - Communication
+  - Problem Solving
+  - Creativity
   - ICS314
 ---
 
