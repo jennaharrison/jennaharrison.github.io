@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "???"
+title: "Learning the Ways of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-08
 published: true
