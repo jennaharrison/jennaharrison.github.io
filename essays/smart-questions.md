@@ -34,7 +34,7 @@ You should also include enough details to explain your problem clearly. Don't be
       
     <p>Another problem is that it looks like this person just dumped all of their code into this question. Not all of it may relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.</p>
       
-    <p>Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person could have found their own solution without having to post their question.</p>
+    <p>Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person may have been able to find their own solution without having to post their question.</p>
   </div>
 </div>
 
@@ -51,7 +51,6 @@ You should also include enough details to explain your problem clearly. Don't be
   <div style="width: 50%;">
     <p>These images are examples of a smart question. They start their question by saying what they want to accomplish. Then, they include what they've tried already. They keep the code included very concise. After that, they state the problem with their code. I like how they are very specific with their requirements. They include the prerequisites and even what they <b>don't</b> want to see as an answer. </p>
       
-    <p>This kind of question makes it easy to understand because the user is being very specific with what they're looking for. The responses to this question are much more helpful because the question is clear and formatted correctly. This allows the person to get the help they requested sooner.</p>
-    </p>
+    <p>This kind of question makes it easy to understand because the user is being very specific with what they're looking for. The responses to this question are much more helpful because the question is clear and formatted correctly. There are several different solutions that have been provided that still follow all of the rules set by the user. This allows the person to get the help they requested sooner.</p>
   </div>
 </div>
