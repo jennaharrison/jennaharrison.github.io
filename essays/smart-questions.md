@@ -35,6 +35,8 @@ You should also include enough details to explain your problem clearly. Don't be
     <p>Another problem is that it looks like this person just dumped all of their code into this question. Not all of it may be relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.</p>
       
     <p>Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person may have been able to find their own solution without having to post their question.</p>
+
+    <p>As I was finishing up this essay, I noticed that this question was actually removed entirely from Stack Overflow. I think this is just another example of why it's important to ask smart questions.</p>
   </div>
 </div>
 
