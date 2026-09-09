@@ -15,7 +15,7 @@ labels:
 What many people may not know is that software engineering is much more than programming. It encompasses everything that goes into building and maintaining software, including planning, development, and testing. Software engineers are involved in the entire process. 
 <div>
   <img class="img-fluid" src="../img/sdlc.jpg" style="width: 50%;">
-  Cliffydcw. SDLC – Software Development Life Cycle. 2012. Wikimedia Commons, CC BY-SA 3.0.
+  <p>Cliffydcw. <i>SDLC – Software Development Life Cycle</i>. 2012. Wikimedia Commons, CC BY-SA 3.0.</p>
 </div>
 
 
