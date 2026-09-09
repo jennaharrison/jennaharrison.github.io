@@ -30,12 +30,11 @@ You should also include enough details to explain your problem clearly. Don't be
   </div>
 
   <div style="width: 60%;">
-    <p>
-The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.
+    <p>The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.</p>
       
-Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.
+    <p>Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.</p>
       
-Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person could have possibly gotten their question answered in the time it took them to write out and post their own question to the site.
+    <p>Lastly, this question was closed because it was considered a duplicate question. This is a good example of why it's smart to look through previously asked questions. This person could have possibly gotten their question answered in the time it took them to write out and post their own question to the site.</p>
     </p>
   </div>
 </div>
