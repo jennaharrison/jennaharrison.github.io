@@ -14,6 +14,9 @@ labels:
 
 What many people may not know is that software engineering is much more than programming. It encompasses everything that goes into building and maintaining software, including planning, development, and testing. Software engineers are involved in the entire process. 
 
+<img class="img-fluid" src="../img/sdlc.jpg" style="width: 50%;">
+Cliffydcw. SDLC – Software Development Life Cycle. 2012. Wikimedia Commons, CC BY-SA 3.0.
+
 ## What Makes a Good Software Engineer?
 
 Because Software Engineers accomplish many different things for one project, there are certain skills that would make the work a lot easier. I think the number one trait that any software engineer should have is the ability to communicate. Often, we will be working as a team to accomplish our goals. To complete projects quickly and effectively, you need to be able to communicate clearly. Whether it is understanding your role in the project, delegating tasks to others, or even providing assistance to your team, it is important to be able to clearly get your point across.
