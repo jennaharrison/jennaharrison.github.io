@@ -24,3 +24,7 @@ Creativity and a passion for software engineering are also important traits. If 
 
 ## Why am I Interesting in Software Engineering?
 
+As I mentioned earlier, I love being creative. Ever since I was a kid, I've loved anything that had to do with creativity. I typically gravitate toward any kind of crafty hobby. I think software engineering is just an extension of that passion. As a software engineer, I am able to create. I can come up with an idea and make it a reality. That is the most rewarding part. I love the entire process. I like being able to solve problems for people. I honestly even enjoy automation. Anything that allows me to put my thoughts into reality.
+
+## Where To Next?
+
