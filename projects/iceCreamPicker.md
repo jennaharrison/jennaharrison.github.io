@@ -12,7 +12,7 @@ labels:
 summary: "Created an interactive choose-your-own-adventure game where players build an ice cream cone and embark on a journey to get it back after it is stolen."
 ---
 
-<img class="img-fluid" src="../img/iceCreamPicker/iceCreamPicker.png">
+<img class="img-fluid" src="../img/iceCreamPicker/iceCreamPicker.png" style="width: 50%;">
 
 My senior year of high school, I created Ice Cream Picker as a project for AP Computer Science Principles. The game allows players to create their own ice cream cone by choosing their preferred flavors and toppings before setting off on an unexpected adventure.
 
