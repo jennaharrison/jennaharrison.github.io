@@ -22,11 +22,11 @@ Another trait a software engineer should have is the ability to see beyond the c
 
 Creativity and a passion for software engineering are also important traits. If you don't genuinely enjoy what you do, it becomes very hard to be creative and come up with effective solutions. I believe that these 2 traits go hand in hand. Personally, I like to think I am creative. I enjoy problem-solving, trying new things, and the process of writing a program. Problems are being solved every day with new programs. As a software engineer, what is going to make you different? What problems are you going to solve if everyone else has already solved the obvious ones? You have to be creative. You have to have passion for what you do. 
 
-## Why am I Interesting in Software Engineering?
+## Why am I Interested in Software Engineering?
 
 As I mentioned earlier, I love being creative. Ever since I was a kid, I've loved anything that had to do with creativity. I typically gravitate toward any kind of crafty hobby. I think software engineering is just an extension of that passion. As a software engineer, I am able to create. I can come up with an idea and make it a reality. That is the most rewarding part. I love the entire process. I like being able to solve problems for people. I honestly even enjoy automation. Anything that allows me to put my thoughts into reality.
 
-## Where To Next?
+## Next Steps
 
 I want to continue to develop my skills as a software engineer. I think I tend to struggle with communication. I want to have an opportunity to work with others so that I can practice this ability. I also have trouble seeing the bigger picture sometimes. Creating an outline definitely does help me, but I need more practice to get better at it.
 
