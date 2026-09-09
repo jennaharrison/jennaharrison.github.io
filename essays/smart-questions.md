@@ -24,7 +24,7 @@ You should also include enough details to explain your problem clearly. Don't be
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="width: 40%;">
-    <img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 30%;">
+    <img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 50%;">
     <br>
     <small>Source: <a href="https://stackoverflow.com/questions/80001972/function-isset-always-is-empty">Stack Overflow</a></small>
   </div>
@@ -42,8 +42,8 @@ You should also include enough details to explain your problem clearly. Don't be
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="width: 50%;">
-    <img class="img-fluid" src="../img/smart-questions/smart-question1.png" style="width: 30%;">
-    <img class="img-fluid" src="../img/smart-questions/smart-question2.png" style="width: 30%;">
+    <img class="img-fluid" src="../img/smart-questions/smart-question1.png" style="width: 50%;">
+    <img class="img-fluid" src="../img/smart-questions/smart-question2.png" style="width: 50%;">
     <br>
     <small>Source: <a href="https://stackoverflow.com/questions/80001748/add-a-named-element-conditionally-in-a-list">Stack Overflow</a></small>
   </div>
