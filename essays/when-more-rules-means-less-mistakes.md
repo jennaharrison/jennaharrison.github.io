@@ -38,3 +38,7 @@ This difference was very frustrating to me at first, but I’ve been putting mor
 Athletic software engineering typically means that we are given strict time limits to complete a task, usually something programming related. The goal is to use the pressure of a time limit to encourage students to learn and improve their skills more quickly. One of the best ways to practice for these timed quizzes is repetition. If you keep doing something over and over, it will eventually become second nature. This makes it easier to get through a quiz because you spend less time thinking about how to write the code and more time actually solving the problem in front of you.
 	
 I find this approach somewhat helpful. I do think that it can get stressful at times, especially during quizzes, but it helps a lot for assignments. Having a specific time to work toward gives me something to strive for. If I don’t get the time I want, I can just keep doing it again until I get there. I think this strategy could help me with future quizzes, but I will probably still stress myself out a little when the timer is actually running.
+
+## AI Use
+
+I used ChatGPT while writing to help me fix my grammar and to proofread.
