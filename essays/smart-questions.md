@@ -24,7 +24,7 @@ You should also include enough details to explain your problem clearly. Don't be
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
-    <img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 40%;">
+    <img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 30%;">
     <br>
     <small>Source: <a href="https://stackoverflow.com/questions/80001972/function-isset-always-is-empty">Stack Overflow</a></small>
   </div>
