@@ -28,3 +28,6 @@ As I mentioned earlier, I love being creative. Ever since I was a kid, I've love
 
 ## Where To Next?
 
+I want to continue to develop my skills as a software engineer. I think I tend to struggle with communication. I want to have an opportunity to work with others so that I can practice this ability. I also have trouble seeing the bigger picture sometimes. Creating an outline definitely does help me, but I need more practice to get better at it.
+
+Just having more experience with software engineering in general would be incredibly beneficial for me. I feel as though a lot of my time is spent doing assignments in school and creating programs I'm told to create. If I could gain experience starting from scratch, finding my own problem, creating a plan, and developing the solution, I would be a lot more comfortable with the skills I have and will have in the future. I want to have more opportunities to work on projects where I can make my own decisions and see an idea through from beginning to end.
