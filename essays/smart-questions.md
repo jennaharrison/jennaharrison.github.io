@@ -23,13 +23,13 @@ You should also include enough details to explain your problem clearly. Don't be
 ## Example of a Poor Question
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
+  <div style="width: 40%;">
     <img class="img-fluid" src="../img/smart-questions/not-smart-question.png" style="width: 30%;">
     <br>
     <small>Source: <a href="https://stackoverflow.com/questions/80001972/function-isset-always-is-empty">Stack Overflow</a></small>
   </div>
 
-  <div style="flex: 1;">
+  <div style="width: 60%;">
     <p>
       The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.
       Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.
@@ -41,14 +41,14 @@ You should also include enough details to explain your problem clearly. Don't be
 ## Example of a Smart Question
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
+  <div style="width: 50%;">
     <img class="img-fluid" src="../img/smart-questions/smart-question1.png" style="width: 30%;">
     <img class="img-fluid" src="../img/smart-questions/smart-question2.png" style="width: 30%;">
     <br>
     <small>Source: <a href="https://stackoverflow.com/questions/80001748/add-a-named-element-conditionally-in-a-list">Stack Overflow</a></small>
   </div>
 
-  <div style="flex: 1;">
+  <div style="width: 50%;">
     <p>
       The image to the left is an example of a "not smart" question. It appears as if this user has not taken the time to do their own research. You can also see how their code is formatted. It makes it really hard to read, which makes it harder for someone to provide an help. In fact, some of the answers are just requests to format it in a way that's more readable.
       Another problem is that is looks like this person just dumped all of their code into this question. Not all of it could be even relevant to the question they're asking. It just makes it even more difficult to read. It makes the person answering the question search for the problem area within all the code.
