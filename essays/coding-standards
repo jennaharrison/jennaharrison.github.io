@@ -1,1 +1,26 @@
+---
+layout: essay
+type: essay
+title: "Why Should I Care About ESLint???"
+# All dates must be YYYY-MM-DD format!
+date: 2026-09-22
+published: true
+labels:
+  - TypeScript
+  - ESLint
+  - Coding Standards
+---
 
+## What is ESLint and why do I need it?
+
+ESLint is a very useful tool for making sure your code follows coding standards. This differs from normal TypeScript error checking because ESLint can return errors when you are not following the required standards. For example, if you forget a semicolon at the end of a line, TypeScript usually will not give you an error, but ESLint can. This can be annoying at times, but it is very useful in the long run.
+
+## Benefits of ESLint
+
+I think the biggest benefit of ESLint is code readability. By forcing you to adhere to coding standards, it makes your code easier for others to read and update later on. It's never fun when you need to make changes to code, but you can't tell what any of it does because it is written so poorly. It also helps when collaborating with others. If your project has multiple functions that need to be interconnected, it can make it easier for your team members to hook their code up to yours.
+
+ESLint can also help catch problems that may not even affect the way your TypeScript runs.
+
+## AI Use
+
+I used ChatGPT in the writing process to check my grammar and to separate some of my really long paragraphs into shorter, clearer paragraphs to make it easier to read.
