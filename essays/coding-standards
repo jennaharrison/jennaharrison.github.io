@@ -17,9 +17,25 @@ ESLint is a very useful tool for making sure your code follows coding standards.
 
 ## Benefits of ESLint
 
-I think the biggest benefit of ESLint is code readability. By forcing you to adhere to coding standards, it makes your code easier for others to read and update later on. It's never fun when you need to make changes to code, but you can't tell what any of it does because it is written so poorly. It also helps when collaborating with others. If your project has multiple functions that need to be interconnected, it can make it easier for your team members to hook their code up to yours.
+I think the biggest benefit of ESLint is code readability. By encouraging you to follow to coding standards, it makes your code easier for others to read and update later on. It's never fun when you need to make changes to code, but you can't tell what any of it does because it is written so poorly. It also helps when collaborating with others. If a project has multiple functions that need to work together, following the same coding standards can make it easier for team members to understand each other's code and connect their work.
 
-ESLint can also help catch problems that may not even affect the way your TypeScript runs. The most prominent example of this is that it will throw an error for an unused variable. Creating a variable won't crash your code. TypeScript won't tell you that it's a problem. The extra line of code isn't a problem, but it can make your code longer. It can also make it more confusing for others. Someone may be reading your code trying to find a variable that is never actually used. 
+ESLint can also catch problems that may not affect the way your TypeScript code runs. One example of this is an unused variable. Creating a variable that you never use will not necessarily cause your program to crash. However, ESLint can warn you about it because the unused variable is unnecessary and can make your code more confusing.
+
+For example, this code creates a variable called `name`, but never actually uses it:
+
+```typescript
+const name = "John";
+
+console.log("Hello!");
+
+ESLint would throw an error, but your TypeScript file would be completely fine with it. The code still runs, but there is no reason to have that name variable there. There are two ways we can fix this. We can either delete the variable entirely, or we can update our code to use the variable like this:
+
+```typescript
+const name = "John";
+
+console.log(`Hello, ${name}`);
+
+This may seem like a small issue, but unused variables can become much more difficult to deal with in a larger project. Someone reading your code might see a variable and assume it is important, only to discover that it is never used anywhere.
 
 Overall, ESLint just helps make your code readable to you and other people. I can't count the amount of times I've come back to my code after a long break and not known what was going on. ESLint can help make that a little more manageable.
 
