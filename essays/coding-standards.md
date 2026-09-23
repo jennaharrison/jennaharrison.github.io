@@ -49,4 +49,4 @@ It took lots of practice, but I was finally able to understand the standards tha
 
 ## AI Use
 
-I used ChatGPT in the writing process to check my grammar and to separate some of my really long paragraphs into shorter, clearer paragraphs to make it easier to read.
+I used ChatGPT while writing to help me fix my grammar and to proofread.
