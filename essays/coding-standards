@@ -27,6 +27,7 @@ For example, this code creates a variable called `name`, but never actually uses
 const name = "John";
 
 console.log("Hello!");
+```
 
 ESLint would throw an error, but your TypeScript file would be completely fine with it. The code still runs, but there is no reason to have that name variable there. There are two ways we can fix this. We can either delete the variable entirely, or we can update our code to use the variable like this:
 
@@ -34,6 +35,7 @@ ESLint would throw an error, but your TypeScript file would be completely fine w
 const name = "John";
 
 console.log(`Hello, ${name}`);
+```
 
 This may seem like a small issue, but unused variables can become much more difficult to deal with in a larger project. Someone reading your code might see a variable and assume it is important, only to discover that it is never used anywhere.
 
