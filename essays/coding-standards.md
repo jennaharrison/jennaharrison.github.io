@@ -24,15 +24,15 @@ ESLint can also catch problems that may not affect the way your TypeScript code 
 For example, this code creates a variable called `name`, but never actually uses it:
 
 ```typescript
-const name = "John";
+const name = 'John';
 
-console.log("Hello!");
+console.log('Hello!');
 ```
 
 ESLint would throw an error, but your TypeScript file would be completely fine with it. The code still runs, but there is no reason to have that name variable there. There are two ways we can fix this. We can either delete the variable entirely, or we can update our code to use the variable like this:
 
 ```typescript
-const name = "John";
+const name = 'John';
 
 console.log(`Hello, ${name}`);
 ```
