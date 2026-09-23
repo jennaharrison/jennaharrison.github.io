@@ -43,7 +43,9 @@ Overall, ESLint just helps make your code readable to you and other people. I ca
 
 ## My Frustrations
 
-At first, I was really frustrated with ESLint. My TypeScript file went from almost no errors to about 30 in the blink of an eye. When I ran ESLint for the first time, I had no idea what was going on. This was completely new to me. It took me lots of practice, but I was finally able to understand the standards that ESLint is trying to help me uphold. Even just trying to get it to install onto my VSCode environment was frustrating. I ran into many issues, but I'm glad I stuck with it. In the end, I think the benefits outweigh all of my frustrations.
+At first, I was really frustrated with ESLint. My TypeScript file went from almost no errors to about 30 in the blink of an eye. When I ran ESLint for the first time, I had no idea what was going on. All of these errors were completely new to me, and I did not understand why my code was suddenly considered "wrong." 
+
+It took lots of practice, but I was finally able to understand the standards that ESLint is trying to help me uphold. Even just trying to get it to install onto my VSCode environment was frustrating. I ran into many issues, but I'm glad I stuck with it. In the end, I honestly believe the benefits outweigh all of my frustrations.
 
 ## AI Use
 
