@@ -19,7 +19,13 @@ ESLint is a very useful tool for making sure your code follows coding standards.
 
 I think the biggest benefit of ESLint is code readability. By forcing you to adhere to coding standards, it makes your code easier for others to read and update later on. It's never fun when you need to make changes to code, but you can't tell what any of it does because it is written so poorly. It also helps when collaborating with others. If your project has multiple functions that need to be interconnected, it can make it easier for your team members to hook their code up to yours.
 
-ESLint can also help catch problems that may not even affect the way your TypeScript runs.
+ESLint can also help catch problems that may not even affect the way your TypeScript runs. The most prominent example of this is that it will throw an error for an unused variable. Creating a variable won't crash your code. TypeScript won't tell you that it's a problem. The extra line of code isn't a problem, but it can make your code longer. It can also make it more confusing for others. Someone may be reading your code trying to find a variable that is never actually used. 
+
+Overall, ESLint just helps make your code readable to you and other people. I can't count the amount of times I've come back to my code after a long break and not known what was going on. ESLint can help make that a little more manageable.
+
+## My Frustrations
+
+At first, I was really frustrated with ESLint. My TypeScript file went from almost no errors to about 30 in the blink of an eye. When I ran ESLint for the first time, I had no idea what was going on. This was completely new to me. It took me lots of practice, but I was finally able to understand the standards that ESLint is trying to help me uphold. Even just trying to get it to install onto my VSCode environment was frustrating. I ran into many issues, but I'm glad I stuck with it. In the end, I think the benefits outweigh all of my frustrations.
 
 ## AI Use
 
