@@ -93,21 +93,21 @@ The website I created is not an exact copy of Taylor Swift's website. I did not 
 
 <tr>
 <td>
-<img src="../img/taylor-original-1.jpg" alt="Original Taylor Swift website" width="500">
+<img src="../img/taylor-swift/taylor-swift-original1.png" alt="Original Taylor Swift website" width="500">
 </td>
 
 <td>
-<img src="../img/taylor-recreation-1.jpg" alt="My Taylor Swift website recreation" width="500">
+<img src="../img/taylor-swift/taylor-swift-recreation1.jpg" alt="My Taylor Swift website recreation" width="500">
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="../img/taylor-original-2.jpg" alt="Original Taylor Swift website" width="500">
+<img src="../img/taylor-swift/taylor-swift-original2.png" alt="Original Taylor Swift website" width="500">
 </td>
 
 <td>
-<img src="../img/taylor-recreation-2.jpg" alt="My Taylor Swift website recreation" width="500">
+<img src="../img/taylor-swift/taylor-swift-recreation2.jpg" alt="My Taylor Swift website recreation" width="500">
 </td>
 </tr>
 </table>
