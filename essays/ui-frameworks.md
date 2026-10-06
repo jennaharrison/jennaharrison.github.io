@@ -27,13 +27,9 @@ Bootstrap can make your design so much simpler. What once took many lines of cod
 <tr>
 <td markdown="1">
 
-### HTML
-
 ```html
 <button class="button">Click Me</button>
 ```
-
-### CSS
 
 ```css
 .button {
@@ -53,8 +49,6 @@ Bootstrap can make your design so much simpler. What once took many lines of cod
 </td>
 
 <td markdown="1">
-
-### Bootstrap
 
 ```html
 <button class="btn btn-primary">Click Me</button>
