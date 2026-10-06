@@ -13,10 +13,10 @@ labels:
 ---
 
 ## What is a UI Framework?
-A UI Framework is like a set of pre-built tools that are ready to use. In HTML and CSS, you are creating everything from scratch. However, by using a UI framework like Bootstrap 5, it can make you life a whole lot easier.
+A UI Framework is like a set of pre-built tools that are ready to use. When using HTML and CSS without a framework, you are creating everything from scratch. However, by using a UI framework like Bootstrap 5, it can make your life a whole lot easier.
 
 ## Why Should I Bother?
-Bootstrap can make your design so much simpler. What once was many lines of code, split into two files can now be done in less lines in just one file. For example, creating a button. Using just HTML, you need CSS to style the button and make it look nice. Using bootstrap, you can do the work of 8 CSS lines in 1.
+Bootstrap can make your design so much simpler. What once took many lines of code, split into two files, can now be done in fewer lines in just one file. For example, let's look at creating a button. Using just HTML, you need CSS to style the button and make it look nice. Using Bootstrap, you can do all of the same things in just one line of HTML.
 
 <table>
 <tr>
@@ -64,6 +64,8 @@ Bootstrap can make your design so much simpler. What once was many lines of code
 </tr>
 </table>
 
+The Bootstrap version is much shorter, but it still creates a button with styling and a hover effect. Instead of having to figure out all of the CSS myself, Bootstrap has already done the work for me.
+
 ## Okay... So Bootstrap Can Make Buttons. What Else Can it do?
 Bootstrap has many capabilities, but here are some common ones:
 
@@ -76,7 +78,7 @@ Bootstrap has many capabilities, but here are some common ones:
   <li>Grids</li>
 </ul>
 
-It even has its own library for icons. Instead of having to find your icon, add it to your project, and style it so it looks nice, you can get it directly from Bootstrap. This allows you to spend more time creating your actual website, rather than looking around for the perfect icon. Personally, I spend way too much time trying to make decisions like that and trying to figure out the styling than I should. With this UI framework, I can just plug it in and go on my way.
+It even has its own library for icons. Instead of having to find your icon, add it to your project, and style it so it looks nice, you can get it directly from Bootstrap. This allows you to spend more time creating your actual website, rather than looking around for the perfect icon. Personally, I spend way too much time trying to make decisions like that and trying to figure out the styling than I probably should. With this UI framework, I can just plug it in and go on my way.
 
 ## Let's Sprinkle in Some Taylor Swift
 UI Frameworks can be incredibly helpful while creating websites. You can get the same look, with much less effort. To prove my point, I recreated Taylor Swift's official website in Bootstrap. 
@@ -111,3 +113,13 @@ The website I created is not an exact copy of Taylor Swift's website. I did not 
 </td>
 </tr>
 </table>
+
+## Will You Let UI Frameworks Change Your Life?
+
+Personally, I think UI frameworks are very helpful. They can take a while to get used to, but once you understand how to use them, they can make the whole process of creating a website easier and faster. Bootstrap saves me time because I do not have to create every component and style from scratch. Instead, I can use the tools that Bootstrap already provides and customize them to fit what I want.
+
+My Taylor Swift website was a good example of this. I was able to create a website with a complicated-looking layout without having to write every single style myself. Bootstrap handled many of the basic components, while my own CSS allowed me to customize the website and make it feel more like the original.
+
+Of course, UI frameworks do not completely replace HTML and CSS. You still need to understand how they work if you want to customize your website or fix something that does not look right. However, I think that is what makes UI frameworks so useful. They give you a starting point without taking away your ability to be creative.
+
+Instead of spending most of my time figuring out how to style something, I can spend more time focusing on the functionality and design of my website. For me, that makes UI frameworks worth using.
