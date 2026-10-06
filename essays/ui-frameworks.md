@@ -25,7 +25,7 @@ Bootstrap can make your design so much simpler. What once was many lines of code
 </tr>
 
 <tr>
-<td>
+<td markdown="1">
 
 ### HTML
 
@@ -52,7 +52,7 @@ Bootstrap can make your design so much simpler. What once was many lines of code
 
 </td>
 
-<td>
+<td markdown="1">
 
 ### Bootstrap
 
