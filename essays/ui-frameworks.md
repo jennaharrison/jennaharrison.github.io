@@ -16,9 +16,7 @@ labels:
 A UI Framework is like a set of pre-built tools that are ready to use. In HTML and CSS, you are creating everything from scratch. However, by using a UI framework like Bootstrap 5, it can make you life a whole lot easier.
 
 ## Why Should I Bother?
-# Bootstrap vs. HTML and CSS
-
-## Creating a Button
+Bootstrap can make your design so much simpler. What once was many lines of code, split into two files can now be done in less lines in just one file. For example, creating a button. Using just HTML, you need CSS to style the button and make it look nice. Using bootstrap, you can do the work of 8 CSS lines in 1.
 
 <table>
 <tr>
