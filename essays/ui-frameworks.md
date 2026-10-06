@@ -108,6 +108,7 @@ The website I created is not an exact copy of Taylor Swift's website. I did not 
 </tr>
 </table>
 
+<br>
 ## Will You Let UI Frameworks Change Your Life?
 
 Personally, I think UI frameworks are very helpful. They can take a while to get used to, but once you understand how to use them, they can make the whole process of creating a website easier and faster. Bootstrap saves me time because I do not have to create every component and style from scratch. Instead, I can use the tools that Bootstrap already provides and customize them to fit what I want.
