@@ -97,7 +97,7 @@ The website I created is not an exact copy of Taylor Swift's website. I did not 
 </td>
 
 <td>
-<img src="../img/taylor-swift/taylor-swift-recreation1.jpg" alt="My Taylor Swift website recreation" width="500">
+<img src="../img/taylor-swift/taylor-swift-recreation1.webp" alt="My Taylor Swift website recreation" width="500">
 </td>
 </tr>
 
@@ -107,7 +107,7 @@ The website I created is not an exact copy of Taylor Swift's website. I did not 
 </td>
 
 <td>
-<img src="../img/taylor-swift/taylor-swift-recreation2.jpg" alt="My Taylor Swift website recreation" width="500">
+<img src="../img/taylor-swift/taylor-swift-recreation2.webp" alt="My Taylor Swift website recreation" width="500">
 </td>
 </tr>
 </table>
