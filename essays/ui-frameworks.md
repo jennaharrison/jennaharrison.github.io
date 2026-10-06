@@ -122,4 +122,8 @@ My Taylor Swift website was a good example of this. I was able to create a websi
 
 Of course, UI frameworks do not completely replace HTML and CSS. You still need to understand how they work if you want to customize your website or fix something that does not look right. However, I think that is what makes UI frameworks so useful. They give you a starting point without taking away your ability to be creative.
 
+## AI Use
+
+I used AI while writing to help me fix my grammar and to proofread.
+
 Instead of spending most of my time figuring out how to style something, I can spend more time focusing on the functionality and design of my website. For me, that makes UI frameworks worth using.
