@@ -2,7 +2,8 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2025-11-05
+# All dates must be YYYY-MM-DD format!
+date: 2026-11-05
 published: true
 labels:
   - Software Engineering
