@@ -33,7 +33,7 @@ To use TEMP NAME, a user must create an account. Their profile allows TEMP NAME 
 
 ## Proof of Concept
 
-_Add proof-of-concept screenshots or demonstrations here._
+<img class="img-fluid" src="../img/proof-of-concept.png" style="width: 70%;">
 
 ## Use Case Ideas
 
